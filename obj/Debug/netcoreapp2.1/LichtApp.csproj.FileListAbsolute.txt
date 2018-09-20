@@ -1,0 +1,11 @@
+C:\Users\jpboe\source\repos\LichtApp\LichtApp\bin\Debug\netcoreapp2.1\LichtApp.deps.json
+C:\Users\jpboe\source\repos\LichtApp\LichtApp\bin\Debug\netcoreapp2.1\LichtApp.runtimeconfig.json
+C:\Users\jpboe\source\repos\LichtApp\LichtApp\bin\Debug\netcoreapp2.1\LichtApp.runtimeconfig.dev.json
+C:\Users\jpboe\source\repos\LichtApp\LichtApp\bin\Debug\netcoreapp2.1\LichtApp.dll
+C:\Users\jpboe\source\repos\LichtApp\LichtApp\bin\Debug\netcoreapp2.1\LichtApp.pdb
+C:\Users\jpboe\source\repos\LichtApp\LichtApp\obj\Debug\netcoreapp2.1\LichtApp.csproj.CoreCompileInputs.cache
+C:\Users\jpboe\source\repos\LichtApp\LichtApp\obj\Debug\netcoreapp2.1\LichtApp.AssemblyInfoInputs.cache
+C:\Users\jpboe\source\repos\LichtApp\LichtApp\obj\Debug\netcoreapp2.1\LichtApp.AssemblyInfo.cs
+C:\Users\jpboe\source\repos\LichtApp\LichtApp\obj\Debug\netcoreapp2.1\LichtApp.dll
+C:\Users\jpboe\source\repos\LichtApp\LichtApp\obj\Debug\netcoreapp2.1\LichtApp.pdb
+C:\Users\jpboe\source\repos\LichtApp\LichtApp\obj\Debug\netcoreapp2.1\LichtApp.csprojAssemblyReference.cache
