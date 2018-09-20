@@ -46,6 +46,8 @@ namespace LichtApp
             lichtknop2.VoegLampToe(lamp7);
             lichtknop2.VoegLampToe(lamp8);
             lichtknop2.VoegLampToe(lamp9);
+            Stroboscoop stroboscoop1 = new Stroboscoop(10, "wit", "uit", 5);
+            lichtknop2.VoegLampToe(stroboscoop1);
 
             //Lijst weergeven voor lichtknop 1
             WhiteSpace();

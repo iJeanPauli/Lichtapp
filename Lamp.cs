@@ -32,7 +32,12 @@ namespace LichtApp
             return _status;
         }
 
-        public void LampSwitch()
+        public void SetStatus(string status)
+        {
+            _status = status;
+        }
+
+        public virtual void LampSwitch()
         {
             if (_status == "uit")
             {
